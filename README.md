@@ -3,6 +3,8 @@
 JpMorgen Chase&amp;Co Software development.
 
 # Task Overview #
+
+# TASK 1 
 # What you'll learn
 How Software Engineers help JPMorgan Chase traders by building dashboards to better identify under/over-valued stocks.
 How to set up your dev environment by installing python, forking and cloning the starter repo and installing project dependencies
@@ -11,6 +13,14 @@ What an engineering ticket looks like
 Set up your local dev environment by downloading the necessary files, tools and dependencies
 Fix the broken client datafeed script in the repository
 Optional: add unit tests in the test script in the repository
+
+# TASK 2
+# What you'll learn
+How to install npm so that you can work in javascript
+Why JPMorgan Chase created Perspective and made it available as an open source library
+# What you'll do
+Set up your local dev environment
+Fix broken typescript files in the repository to make the web application output correctly
 
 # Here is the background information on your task #
 You’ve been asked to assist with some development to add a chart to a trader’s dashboard allowing them to better identify under/over-valued stocks.
